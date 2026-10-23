@@ -1,0 +1,30 @@
+# Node & dependencies
+node_modules/
+.npm/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files & archives
+*.zip
+*.tar.gz
+*.log
